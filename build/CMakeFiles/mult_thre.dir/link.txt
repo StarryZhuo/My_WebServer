@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-8 -g CMakeFiles/mult_thre.dir/src/mult_thre_server.cpp.o -o ../bin/mult_thre   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib:/home/starry/My_WebServer/lib ../lib/libsrc.so -lpthread 

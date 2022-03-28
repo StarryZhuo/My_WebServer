@@ -1,0 +1,7 @@
+/home/starry/My_WebServer/build/CMakeFiles/src.dir
+/home/starry/My_WebServer/build/CMakeFiles/server.dir
+/home/starry/My_WebServer/build/CMakeFiles/client.dir
+/home/starry/My_WebServer/build/CMakeFiles/test_epoll_thp.dir
+/home/starry/My_WebServer/build/CMakeFiles/test_thread_pool.dir
+/home/starry/My_WebServer/build/CMakeFiles/edit_cache.dir
+/home/starry/My_WebServer/build/CMakeFiles/rebuild_cache.dir

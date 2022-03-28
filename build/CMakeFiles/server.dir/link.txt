@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-8 -g CMakeFiles/server.dir/src/mult_pro_server.cpp.o -o ../bin/server   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib:/home/starry/My_WebServer/lib ../lib/libsrc.so -lpthread 

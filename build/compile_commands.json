@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/starry/My_WebServer/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-8 -Dsrc_EXPORTS -I/home/starry/My_WebServer/. -g -fPIC -o CMakeFiles/src.dir/src/wrap.cpp.o -c /home/starry/My_WebServer/src/wrap.cpp",
+  "file": "/home/starry/My_WebServer/src/wrap.cpp"
+},
+{
+  "directory": "/home/starry/My_WebServer/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-8 -Dsrc_EXPORTS -I/home/starry/My_WebServer/. -g -fPIC -o CMakeFiles/src.dir/src/ThreadPool.cpp.o -c /home/starry/My_WebServer/src/ThreadPool.cpp",
+  "file": "/home/starry/My_WebServer/src/ThreadPool.cpp"
+},
+{
+  "directory": "/home/starry/My_WebServer/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-8 -Dsrc_EXPORTS -I/home/starry/My_WebServer/. -g -fPIC -o CMakeFiles/src.dir/src/epoll_threadpool.cpp.o -c /home/starry/My_WebServer/src/epoll_threadpool.cpp",
+  "file": "/home/starry/My_WebServer/src/epoll_threadpool.cpp"
+},
+{
+  "directory": "/home/starry/My_WebServer/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-8 -Dsrc_EXPORTS -I/home/starry/My_WebServer/. -g -fPIC -o CMakeFiles/src.dir/src/httpdeal.cpp.o -c /home/starry/My_WebServer/src/httpdeal.cpp",
+  "file": "/home/starry/My_WebServer/src/httpdeal.cpp"
+},
+{
+  "directory": "/home/starry/My_WebServer/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-8  -I/home/starry/My_WebServer/. -g -o CMakeFiles/server.dir/src/mult_pro_server.cpp.o -c /home/starry/My_WebServer/src/mult_pro_server.cpp",
+  "file": "/home/starry/My_WebServer/src/mult_pro_server.cpp"
+},
+{
+  "directory": "/home/starry/My_WebServer/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-8  -I/home/starry/My_WebServer/. -g -o CMakeFiles/client.dir/src/client.cpp.o -c /home/starry/My_WebServer/src/client.cpp",
+  "file": "/home/starry/My_WebServer/src/client.cpp"
+},
+{
+  "directory": "/home/starry/My_WebServer/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-8  -I/home/starry/My_WebServer/. -g -o CMakeFiles/test_epoll_thp.dir/test/test_epoll_thp.cpp.o -c /home/starry/My_WebServer/test/test_epoll_thp.cpp",
+  "file": "/home/starry/My_WebServer/test/test_epoll_thp.cpp"
+},
+{
+  "directory": "/home/starry/My_WebServer/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-8  -I/home/starry/My_WebServer/. -g -o CMakeFiles/test_thread_pool.dir/test/test_thread_pool.cpp.o -c /home/starry/My_WebServer/test/test_thread_pool.cpp",
+  "file": "/home/starry/My_WebServer/test/test_thread_pool.cpp"
+}
+]
