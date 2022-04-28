@@ -1,1 +1,0 @@
-/usr/bin/x86_64-linux-gnu-g++-8 -fPIC -g -shared -Wl,-soname,libsrc.so -o ../lib/libsrc.so CMakeFiles/src.dir/src/wrap.cpp.o CMakeFiles/src.dir/src/ThreadPool.cpp.o CMakeFiles/src.dir/src/epoll_threadpool.cpp.o CMakeFiles/src.dir/src/httpdeal.cpp.o   -L/usr/local/lib 

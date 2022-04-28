@@ -1,1 +1,0 @@
-/usr/bin/x86_64-linux-gnu-g++-8 -g CMakeFiles/test_epoll_thp.dir/test/test_epoll_thp.cpp.o -o ../bin/test_epoll_thp   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib:/home/starry/My_WebServer/lib ../lib/libsrc.so -lpthread 
