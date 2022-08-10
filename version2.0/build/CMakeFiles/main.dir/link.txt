@@ -1,1 +1,0 @@
-/usr/bin/x86_64-linux-gnu-g++-8 -g CMakeFiles/main.dir/test/main.cpp.o -o ../bin/main   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib:/home/starry/My_WebServer/lib ../lib/libsrc.so -lpthread 
